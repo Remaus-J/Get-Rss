@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" >
+<channel>
+<title><![CDATA[远程自动下载]]></title>
+<link>https://github.com/Remaus-J/Get-Rss</link>
+<description><![CDATA[远程自动下载]]></description>
+<language>zh-cn</language>
+<pubDate>Tue, 12 Feb 2019 19:14:26 +0800</pubDate>
+<item>
+<title><![CDATA[[Downlaod-New]模板]]></title>
+<link>https://github.com/Remaus-J/Get-Rss</link>
+<pubDate>Tue, 12 Feb 2019 0:00:00 +0800</pubDate>
+<description><![CDATA[Rss远程下载，控制链接：]]></description>
+<enclosure url="在这里写入magnet！！！"  length="1"  type="application/x-bittorrent" ></enclosure>
+<author><![CDATA[付出了喜悦]]></author>
+<guid isPermaLink="true" >https://github.com/Remaus-J/Get-Rss</guid>
+<category domain="https://github.com/Remaus-J/Get-Rss" ><![CDATA[unknow]]></category>
+</item>
+</channel>
+</rss>
